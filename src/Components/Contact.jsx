@@ -51,7 +51,7 @@ function Contact() {
                 </div>
             </div>
             <div className='email' data-aos="fade-right">
-            <form action="https://formspree.io/f/mjvqqvjz" method="POST">
+            <form action="https://formspree.io/f/xqkvvqlw" method="POST">
   <div className="mail-L">
     <h2>Send Email.</h2>
     <hr />
